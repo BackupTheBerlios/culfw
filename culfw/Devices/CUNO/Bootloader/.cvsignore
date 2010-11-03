@@ -1,0 +1,11 @@
+.dep
+avrprog_boot.pnproj
+avrprog_boot.pnps
+main.eep
+main.elf
+main.lss
+main.lst
+main.map
+main.sym
+testapp
+testavrdude
